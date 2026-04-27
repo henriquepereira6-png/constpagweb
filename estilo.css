@@ -16,3 +16,25 @@
 
 .lista{list-style: none;
 color: aqua;}
+
+.menu{
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+
+    }
+
+.menu a{
+   background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(174, 33, 33);
+}
+
+.menu a:hover{
+background-color: lime;
+color: black;
+
+}
