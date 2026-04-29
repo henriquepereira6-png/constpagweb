@@ -1,0 +1,60 @@
+ body {
+ background-color: black; 
+ color: white;
+ text-align: center;
+
+ }
+
+ #titulo {color: lime;}
+
+
+ .forte{color: darkgray;}
+
+ .fraco{color: lightgray;}
+
+.lista{list-style: none;
+color: aqua;}
+
+.menu{
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+
+    }
+
+.menu a{
+   background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(174, 33, 33);
+}
+
+.menu a:hover{
+background-color: lime;
+color: black;
+}
+
+.listat {
+ text-decoration: none;
+ background-color: darkslategray;
+ color: white;
+ padding: 20px;
+ margin: 30px auto;
+ width: 60%;
+ border-radius: 10px;
+ text-align: left;
+      }
+
+.listat h2{
+color: lime;
+text-align: center;
+
+   }
+   
+.listat li{
+margin: 8px;;
+}
+
+    
