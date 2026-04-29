@@ -37,4 +37,25 @@ color: aqua;}
 background-color: lime;
 color: black;
 
+.listat {
+ text-decoration: none;
+ background-color: darkslategray;
+ color: white;
+ padding: 20px;
+ margin: 30px auto;
+ width: 60%;
+ border-radius: 10px;
+ text-align: left;
+      }
+
+.listat h2{
+color: lime;
+text-align: center;
+
+   }
+   
+.listat li{
+margin: 8px;;
 }
+
+    }
