@@ -1,0 +1,18 @@
+ body {
+ background-color: black; 
+ color: white;
+ padding: auto;
+ margin: auto;
+ text-align: center;
+
+ }
+
+ #titulo {color: lime;}
+
+
+ .forte{color: darkgray;}
+
+ .fraco{color: lightgray;}
+
+.lista{list-style: none;
+color: aqua;}
