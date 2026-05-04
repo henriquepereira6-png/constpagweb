@@ -64,13 +64,13 @@ body {
     text-align: center;
 }
 
-/* CONTAINER CENTRAL */
+
 .container {
     width: 60%;
     margin: auto;
 }
 
-/* TÍTULOS */
+
 #titulo {
     color: lime;
     margin-top: 30px;
@@ -80,7 +80,7 @@ body {
     color: gray;
 }
 
-/* PORTFÓLIO */
+
 .portfolio {
     background-color: #1e1e1e;
     padding: 25px;
@@ -88,13 +88,13 @@ body {
     margin-top: 30px;
 }
 
-/* LISTA */
+
 .portfolio ul {
     list-style: none;
     padding: 0;
 }
 
-/* ITENS */
+
 .portfolio li {
     background-color: #2b2b2b;
     margin: 10px 0;
@@ -105,20 +105,20 @@ body {
     align-items: center;
 }
 
-/* LINKS */
+
 .portfolio a {
     text-decoration: none;
     color: cyan;
     font-weight: bold;
 }
 
-/* DATA */
+
 .portfolio span {
     color: gray;
     font-size: 14px;
 }
 
-/* HOVER (EFEITO PROFISSIONAL) */
+
 .portfolio li:hover {
     background-color: lime;
     color: black;
@@ -128,4 +128,9 @@ body {
 
 .portfolio li:hover a {
     color: black;
+}
+
+table {
+    margin: auto;
+    background-color: darkgray;
 }
